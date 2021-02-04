@@ -28,4 +28,5 @@ updates to slow it down.
 
 
 Look at the file https://raw.githubusercontent.com/Sagebox/stdvisualsort/main/video.webm to see the .webm video of it working.
+Or see it at Gfycat (1920x1080): https://gfycat.com/cleanmeanekaltadeta
 
