@@ -14,6 +14,8 @@ It originally was part of a 10-line sort visualization I am collecting in the 10
 (at https://github.com/Sagebox/sagebox/tree/master/Examples) - if it isn't in there yet, I will be putting
 it there in a couple days. 
 
+This version is a little larger than 10 lines, as I added some elements to make it faster and easier to modify.
+
 This program shows how we can take a program -- such as a standard console program, or whatever -- and 
 insert elements into it to get a nice real-time graphical display of what is going on. 
 
