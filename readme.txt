@@ -7,6 +7,8 @@ https://www.github.com/Sagebox/Sagebox
 std::sort() Visualization 
 *************************
 
+See a hi-res real-time video (gif) at: https://gfycat.com/vibrantinsignificantdormouse
+
 This is a relatively short program that looks at what is going on in std::sort() while it is sorting
 and then graphs it on the screen. 
 
